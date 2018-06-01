@@ -46,7 +46,6 @@ public:
 		if(this->gettotalmarks() > s2.gettotalmarks() ) //&& (this->eng > s2.eng))
 		
 		return 1;
-		
 
 		else
 			return 0;

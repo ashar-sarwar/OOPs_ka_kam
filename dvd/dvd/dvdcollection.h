@@ -23,7 +23,7 @@ public:
 
 	void add(DVDD &z1)
 	{
-		if(this->count<=this->size)
+		if(this->count==this->size)
 		{
 		dvdlist[this->count]=z1;
 		this->count++;

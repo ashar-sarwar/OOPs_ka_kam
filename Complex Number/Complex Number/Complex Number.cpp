@@ -7,6 +7,10 @@ using namespace std;
 int main()
 {
 	complex z1(5.4,6.9);
+	int a=z1.getimg();
+	cout<<a;
+    int b=z1.getreal();
+	cout<<b;
 	complex z3,*z4,z5,z6,z7,z8,z9(6.5,4.5),z10;
 	complex z2=z1;
 	z3 = z3.add(z1, z2);

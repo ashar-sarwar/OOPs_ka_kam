@@ -28,6 +28,6 @@ int main()
 
      
      
-    mycollection.show();
+   // mycollection.show();
     system("pause");
 }

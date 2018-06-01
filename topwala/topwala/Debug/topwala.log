@@ -1,0 +1,15 @@
+﻿Build started 08-May-18 1:24:03 AM.
+     1>Project "c:\Users\ashar sarwar\documents\visual studio 2010\Projects\topwala\topwala\topwala.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\topwala.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\topwala.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt topwala.cpp
+         topwala.cpp
+     1>c:\users\ashar sarwar\documents\visual studio 2010\projects\topwala\topwala\topwala.cpp(16): error C2440: 'initializing' : cannot convert from 'isover' to 'top *'
+                 No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+     1>Done Building Project "c:\Users\ashar sarwar\documents\visual studio 2010\Projects\topwala\topwala\topwala.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.43

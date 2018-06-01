@@ -1,5 +1,5 @@
-﻿Build started 06-Apr-18 12:11:19 AM.
-     1>Project "C:\Users\Ashar Sarwar\documents\visual studio 2010\Projects\dvdwaala\dvdwaala\dvdwaala.vcxproj" on node 2 (build target(s)).
+﻿Build started 14-May-18 7:17:45 PM.
+     1>Project "C:\Users\Ashar Sarwar\Documents\Visual Studio 2010\Projects\dvdwaala\dvdwaala\dvdwaala.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\dvdwaala.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
@@ -9,7 +9,7 @@
        ManifestResourceCompile:
          All outputs are up-to-date.
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ashar Sarwar\documents\visual studio 2010\Projects\dvdwaala\Debug\dvdwaala.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\dvdwaala.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ashar Sarwar\documents\visual studio 2010\Projects\dvdwaala\Debug\dvdwaala.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ashar Sarwar\documents\visual studio 2010\Projects\dvdwaala\Debug\dvdwaala.lib" /MACHINE:X86 Debug\dvdwaala.exe.embed.manifest.res
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ashar Sarwar\Documents\Visual Studio 2010\Projects\dvdwaala\Debug\dvdwaala.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\dvdwaala.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Ashar Sarwar\Documents\Visual Studio 2010\Projects\dvdwaala\Debug\dvdwaala.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ashar Sarwar\Documents\Visual Studio 2010\Projects\dvdwaala\Debug\dvdwaala.lib" /MACHINE:X86 Debug\dvdwaala.exe.embed.manifest.res
          Debug\dvdwaala.obj
          Debug\stdafx.obj
        Manifest:
@@ -17,12 +17,12 @@
          All outputs are up-to-date.
        LinkEmbedManifest:
          All outputs are up-to-date.
-         dvdwaala.vcxproj -> C:\Users\Ashar Sarwar\documents\visual studio 2010\Projects\dvdwaala\Debug\dvdwaala.exe
+         dvdwaala.vcxproj -> C:\Users\Ashar Sarwar\Documents\Visual Studio 2010\Projects\dvdwaala\Debug\dvdwaala.exe
        FinalizeBuildStatus:
          Deleting file "Debug\dvdwaala.unsuccessfulbuild".
          Touching "Debug\dvdwaala.lastbuildstate".
-     1>Done Building Project "C:\Users\Ashar Sarwar\documents\visual studio 2010\Projects\dvdwaala\dvdwaala\dvdwaala.vcxproj" (build target(s)).
+     1>Done Building Project "C:\Users\Ashar Sarwar\Documents\Visual Studio 2010\Projects\dvdwaala\dvdwaala\dvdwaala.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.40
+Time Elapsed 00:00:01.37

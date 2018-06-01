@@ -50,6 +50,8 @@ public:
 	
 	Points operator+(Points &a)
 	{
+		a.x=10;
+		a.y=14;
 		Points result; 
 		double x = a.x + this->x;
 	    double y = a.y + this->y;

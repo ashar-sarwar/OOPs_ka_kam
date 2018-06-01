@@ -7,24 +7,23 @@
 using namespace std;
 int main()
 {
-/*Extendedgrade s1,s2,s3;
+Extendedgrade s1,s2,s3;
 
 
 s1.setmaths(50);
 s1.setscience(70);
 s2.setmaths(80);
 s1.setscience(60);
-*/
 
-Studentgrade s1,s2,s3;
+
+/*Studentgrade s1,s2,s3;
 
 s1.setmaths(20);
 s1.seteng(70);
 s2.setmaths(80);
 s2.seteng(60);
 
-
-if(s1>s2)
+*/if(s1>s2)
    cout<<"greater"<<endl;
 
 else

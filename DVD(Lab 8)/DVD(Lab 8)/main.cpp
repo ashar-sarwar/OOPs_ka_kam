@@ -1,8 +1,10 @@
+#include"stdafx.h"
 #include <iostream>
 #include <string>
 using namespace std;
-//#include "dvd.h"
 #include "dvdcollection.h"
+#include "dvd.h"
+
 
 
 int main()

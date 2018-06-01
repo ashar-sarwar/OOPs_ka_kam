@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "supermanager", "supermanager\supermanager.vcxproj", "{07ABE905-484B-410C-ABD9-F1DB593EE49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07ABE905-484B-410C-ABD9-F1DB593EE49E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07ABE905-484B-410C-ABD9-F1DB593EE49E}.Debug|Win32.Build.0 = Debug|Win32
+		{07ABE905-484B-410C-ABD9-F1DB593EE49E}.Release|Win32.ActiveCfg = Release|Win32
+		{07ABE905-484B-410C-ABD9-F1DB593EE49E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
